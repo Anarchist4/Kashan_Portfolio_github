@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Kashan Abdullah</title>
+    <link>https://anarchist4.github.io/Kashan_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Kashan Abdullah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Apr 2023 11:13:32 -0400</lastBuildDate><atom:link href="https://anarchist4.github.io/Kashan_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Classification Using Transfer Learning</title>
+      <link>https://anarchist4.github.io/Kashan_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 11 Apr 2023 11:13:32 -0400</pubDate>
+      
+      <guid>https://anarchist4.github.io/Kashan_Portfolio/post/project-1/</guid>
+      <description>Diverse Image Classification: Developed a deep learning model to classify 100k images of sandals, shoes, and boots using transfer learning. Transfer Learning Expertise: Leveraged pre-trained convolutional neural networks for efficient feature extraction and fine-tuning. Data Augmentation: Applied data augmentation techniques to enhance model generalization and improve classification accuracy. Hyperparameter Optimization: Experimented with various hyperparameters to fine-tune the model&amp;rsquo;s performance. Robust Evaluation: Evaluated the model&amp;rsquo;s accuracy, precision, recall, and F1-score on a dedicated test set.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: License Plate detection</title>
+      <link>https://anarchist4.github.io/Kashan_Portfolio/post/project-2/</link>
+      <pubDate>Sun, 12 Mar 2023 11:14:48 -0400</pubDate>
+      
+      <guid>https://anarchist4.github.io/Kashan_Portfolio/post/project-2/</guid>
+      <description>License Plate Detection using OpenCV and EasyOCR
+Detect and recognize license plates from images using OpenCV and EasyOCR libraries.
+Efficient license plate localization and character extraction.
+Real-world applications include toll collection, parking management, and law enforcement.
+Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://anarchist4.github.io/Kashan_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarchist4.github.io/Kashan_Portfolio/about/</guid>
+      <description>Data Science and Machine Learning are my passions. My name is Kashan Abdullah and I have been working in the data science field for the last one year. I have held a position in a Company that helped clients through an AI driven identity verification system. I transitioned into Data science from an Electrical Engineering background. When i was first starting out on my data science journey, I was completely lost; there were few individuals that were working in the data science field.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://anarchist4.github.io/Kashan_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anarchist4.github.io/Kashan_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms
+Platform URL LinkedIn: https://www.linkedin.com/in/kashanabdullah/ Twitter: https://twitter.com/kashanNps Facebook: https://web.facebook.com/kashan.abdullah.9 Github: https://github.com/Anarchist4 </description>
+    </item>
+    
+  </channel>
+</rss>
